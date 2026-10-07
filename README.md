@@ -136,5 +136,5 @@
 | **Scale** | **Very large:** gần **1.000 bị hại trên cả nước** và khoảng **200 tỷ đồng** được cơ quan điều tra ghi nhận trong dòng tiền liên quan. |
 | **Probability** | **Medium–High đối với nhóm mục tiêu.** Cơ quan chức năng ghi nhận các đối tượng chủ động thu thập thông tin, hình ảnh của doanh nhân, cán bộ và người có địa vị/điều kiện kinh tế để lựa chọn nạn nhân. Không có đủ dữ liệu để tính xác suất cho toàn bộ người dùng mạng xã hội Việt Nam. |
 | **Frequency** | **High trong phạm vi đường dây.** Gần 1.000 bị hại trong hoạt động có tổ chức cho thấy hành vi được lặp lại có hệ thống chứ không phải một sự cố đơn lẻ. |
-| **Vì sao?** | Đây là case nghiêm trọng nhất trong ba case vì AI không chỉ tạo misinformation mà trở thành **công cụ tạo bằng chứng giả để cưỡng ép hành vi thực tế**. Người bị hại thậm chí không cần tin video là thật: chỉ cần lo rằng gia đình, đồng nghiệp hoặc công chúng có thể tin nội dung giả, kẻ xấu đã có đòn bẩy để tống tiền. |
+| **Vì sao?** | AI không chỉ tạo misinformation mà trở thành **công cụ tạo bằng chứng giả để cưỡng ép hành vi thực tế**. Người bị hại thậm chí không cần tin video là thật: chỉ cần lo rằng gia đình, đồng nghiệp hoặc công chúng có thể tin nội dung giả, kẻ xấu đã có đòn bẩy để tống tiền. |
 
